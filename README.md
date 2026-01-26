@@ -14,3 +14,6 @@ La aplicación proporciona herramientas visuales para explorar los datos de mane
 * Pandas (manipulación de datos)
 * Plotly Express (gráficos interactivos)
 * Streamlit (framework de la aplicación web)
+## Aplicación en vivo
+Puedes acceder a la aplicación interactiva aquí: 
+https://proyecto-7-tripleten-v8d6.onrender.com
